@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVR_API", "LVR_API\LVR_API.csproj", "{803C2837-E913-4AD2-8A65-53831B4367D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVR_API.Tests", "LVR_API.Tests\LVR_API.Tests.csproj", "{1B881C1D-FF7B-4E8C-A746-13F80BF49FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803C2837-E913-4AD2-8A65-53831B4367D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803C2837-E913-4AD2-8A65-53831B4367D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803C2837-E913-4AD2-8A65-53831B4367D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803C2837-E913-4AD2-8A65-53831B4367D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B881C1D-FF7B-4E8C-A746-13F80BF49FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B881C1D-FF7B-4E8C-A746-13F80BF49FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B881C1D-FF7B-4E8C-A746-13F80BF49FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B881C1D-FF7B-4E8C-A746-13F80BF49FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

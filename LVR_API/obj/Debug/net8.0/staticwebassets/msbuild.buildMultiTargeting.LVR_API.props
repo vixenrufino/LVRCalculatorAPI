@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LVR_API.props" />
+</Project>

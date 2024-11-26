@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chen\\source\\repos\\LVR_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{803C2837-E913-4AD2-8A65-53831B4367D9}|LVR_API\\LVR_API.csproj|c:\\users\\chen\\source\\repos\\lvr_api\\lvr_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803C2837-E913-4AD2-8A65-53831B4367D9}|LVR_API\\LVR_API.csproj|solutionrelative:lvr_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803C2837-E913-4AD2-8A65-53831B4367D9}|LVR_API\\LVR_API.csproj|c:\\users\\chen\\source\\repos\\lvr_api\\lvr_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803C2837-E913-4AD2-8A65-53831B4367D9}|LVR_API\\LVR_API.csproj|solutionrelative:lvr_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B881C1D-FF7B-4E8C-A746-13F80BF49FEA}|LVR_API.Tests\\LVR_API.Tests.csproj|c:\\users\\chen\\source\\repos\\lvr_api\\lvr_api.tests\\lvrcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B881C1D-FF7B-4E8C-A746-13F80BF49FEA}|LVR_API.Tests\\LVR_API.Tests.csproj|solutionrelative:lvr_api.tests\\lvrcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803C2837-E913-4AD2-8A65-53831B4367D9}|LVR_API\\LVR_API.csproj|c:\\users\\chen\\source\\repos\\lvr_api\\lvr_api\\controllers\\lvrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803C2837-E913-4AD2-8A65-53831B4367D9}|LVR_API\\LVR_API.csproj|solutionrelative:lvr_api\\controllers\\lvrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LVRControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API.Tests\\LVRControllerTests.cs",
+              "RelativeDocumentMoniker": "LVR_API.Tests\\LVRControllerTests.cs",
+              "ToolTip": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API.Tests\\LVRControllerTests.cs",
+              "RelativeToolTip": "LVR_API.Tests\\LVRControllerTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:16:08.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API\\Program.cs",
+              "RelativeDocumentMoniker": "LVR_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API\\Program.cs",
+              "RelativeToolTip": "LVR_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:00:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LVRController.cs",
+              "DocumentMoniker": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API\\Controllers\\LVRController.cs",
+              "RelativeDocumentMoniker": "LVR_API\\Controllers\\LVRController.cs",
+              "ToolTip": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API\\Controllers\\LVRController.cs",
+              "RelativeToolTip": "LVR_API\\Controllers\\LVRController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:04:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LVR_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Chen\\source\\repos\\LVR_API\\LVR_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LVR_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:03:40.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
